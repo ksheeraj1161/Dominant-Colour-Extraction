@@ -6,8 +6,8 @@ Any image consists of pixels, each pixel represents a dot in an image. A pixel c
 
 <img src="image.jpg"></img><br><br>
 
-<img src="screenshot1.jpg"></img><br><br>
+<img src="Screenshot1.jpg"></img><br><br>
 
 <img src="nature.jpg"></img><br><br>
 
-<img src="screenshot2.jpg"></img><br><br>
+<img src="Screenshot2.jpg"></img><br><br>
