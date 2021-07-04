@@ -3,7 +3,10 @@
 
 Any image consists of pixels, each pixel represents a dot in an image. A pixel contains three values and each value ranges between 0 to 255, representing the amount of red, green and blue components. The combination of these forms an actual color of the pixel. To find the dominant colors, the concept of the k-means clustering is used. One important use of k-means clustering is to segment satellite images to identify surface features. 
 
+### Language used :
+- Python 3.7 version
 
+### Sample Screenshots :
 <img src="image.jpg"></img><br><br>
 
 <img src="Screenshot1.png"></img><br><br>
@@ -11,3 +14,12 @@ Any image consists of pixels, each pixel represents a dot in an image. A pixel c
 <img src="nature.jpg"></img><br><br>
 
 <img src="Screenshot2.png"></img><br><br>
+
+### Platform used :
+- Jupyter Notebook
+
+### Team Member :
+- [Sai Hiranmayee](https://github.com/hiranmayee1123)
+
+
+
